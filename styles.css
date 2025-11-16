@@ -47,4 +47,9 @@ button.btn{border:none;cursor:pointer}
   border-radius: 6px;
   transition: background 0.3s ease;
 }
-
+.responsive-img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+}
